@@ -1,1 +1,1 @@
-# DMGK-NLP
+# DMGK-NLP course
